@@ -10,3 +10,5 @@ This repository contains the practical lab work and final penetration testing re
 * **Module 5 (Network Scanning):** Conducted host discovery and network mapping on a local subnet using Zenmap (Nmap GUI) to identify live hosts, extract MAC addresses, and generate a network topology graphic.
 
 Please review the attached `W2-PM-FINAL` PDF report for full documentation, command outputs, and risk analysis.
+
+Linkedin Post link : https://www.linkedin.com/feed/update/urn:li:ugcPost:7526515474151579648/
